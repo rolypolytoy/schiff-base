@@ -10,7 +10,11 @@ It's a file. Download the file.
 
 # Which File?
 
-The .xyz one.
+The .xyz one. If you open it in [Avogadro](https://avogadro.cc/) it should look like this:
+
+![image](https://github.com/user-attachments/assets/7a18d23c-900a-422b-b846-68574e6ca065)
+
+Used [ORCA](https://orcaforum.kofo.mpg.de/app.php/dlext/) to optimize the geometry with DFT. It's free and better than Gaussian.
 
 # Thanks
 
