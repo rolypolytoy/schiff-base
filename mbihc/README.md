@@ -31,6 +31,8 @@ Take TLC at 5% EtoAc, 95% Hexane, and view under short UV and long UV, or use ch
 
 Then, if it's likely MBIHC, distill at 50 C to evaporate all the methanol. Dry in the flask for 1-2 days in a cool, dry place, ensuring there are tiny holes in the covering to allow ventilation. To crystallize, use DCM, followed by hexane, carefully layered, and store. Crystallization takes an unknown period of time, and is recommended for use in ligand-metal complexes. Currently, complexes with zinc, iron, nickel and cobalt are known, with tridentate modes possible for three of four of these. The degree of nuclearity can be controlled by varying the stoichiometric ratios, and complexes can be formed at room temperature. For more information check out the MBIHC.pdf in the repo (note I wrote the 15% EtoAc step before I realized 5% was preferable. It's a recent identification, so use 5% instead).
 
+More information on MBIHC (particularly visuals) are in the supplementary information section at the bottom of this readme.
+
 # Usage
 
 It's a file. Download the file.
@@ -48,6 +50,26 @@ Functional: ωB97X-D3. Basis set: def2-SVP. Geometry's optimized and the .out fi
 # Thanks
 
 Of course.
+
+# Supplementary Images
+
+MBIHC precipitated to the side of the flask:
+
+![1000134970](https://github.com/user-attachments/assets/8b9bd7c0-6543-4c55-800d-a155b81a0eea)
+
+MBIHC under short-UV (the first one is reactant (1), the second is reactant (2), the third is product (3)). Note reactant 1 has not fully reacted, but there is a new Rf value not present in either reactant 1 or reactant 2 (very weakly visible under short UV):
+
+![1000134979](https://github.com/user-attachments/assets/5653af4f-dffb-4813-9225-8cb475efa9e8)
+
+Under long UV it becomes even more apparent that something novel has been created since only MBIHC fluoresces:
+
+![1000134978](https://github.com/user-attachments/assets/0fbd1e99-e9dc-4c97-a80f-c27171683a8a)
+
+5% EtoAc, 95% Hexane used for these. Using 4% or 3% may help in making the Rf values more reasonable than the 70-90% they were hovering at here, but 5% provides sufficient, consistent performance in minutes.
+
+How crystals of MBIHC look like (sample courtesy of Jugminder Singh, PhD student and faculty at Deshbandhu College, University of Delhi):
+
+![1000135003](https://github.com/user-attachments/assets/e1e4c923-5ee1-45c3-bb8f-ebb157013907)
 
 # References:
 J. Singh, S. Gautam, M. B. Singh, P. Singh, U. Kumar, Chem. Biodiversity 2024, 21, e202401301. https://doi.org/10.1002/cbdv.202401301
