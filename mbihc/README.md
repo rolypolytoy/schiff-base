@@ -63,7 +63,7 @@ MBIHC under short-UV (the first one is reactant (1), the second is reactant (2),
 
 Under long UV it becomes even more apparent that something novel has been created since only MBIHC fluoresces:
 
-![1000134978](https://github.com/user-attachments/assets/0fbd1e99-e9dc-4c97-a80f-c27171683a8a)
+![1000134978](https://github.com/user-attachments/assets/d4ff83c2-a3f3-40d4-b0c8-0d35e2f71da4)
 
 5% EtoAc, 95% Hexane used for these. Using 4% or 3% may help in making the Rf values more reasonable than the 70-90% they were hovering at here, but 5% provides sufficient, consistent performance in minutes.
 
