@@ -41,7 +41,7 @@ The .xyz one. If you open it in [Avogadro](https://avogadro.cc/) it should look 
 
 ![image](https://github.com/user-attachments/assets/7a18d23c-900a-422b-b846-68574e6ca065)
 
-Used [ORCA](https://orcaforum.kofo.mpg.de/app.php/dlext/) to optimize the geometry with DFT. It's free and better than Gaussian.
+Used [ORCA](https://orcaforum.kofo.mpg.de/app.php/dlext/) to optimize the geometry with DFT. It's free and better than Gaussian. Energy's -1312.89 Hartree and dipole moment's 1.44 Debye. Orca seemed pretty happy about the results, optimized in about 30 geometry steps with a pretty high-quality functional with dispersion corrections. I did use MMFF to generate it rather than hand-drawing it, but even then the workflow took a few hours at the most, and didn't require any handholding. 
 
 # Thanks
 
