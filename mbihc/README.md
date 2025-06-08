@@ -24,9 +24,12 @@ To make MBIHC from these two, is not a particularly difficult process. You need:
 
 Take 50 mg of reagent (1) and dissolve in a round bottom flask with 10-15mL of methanol (preferrably with a clean magnetic stirrer) to homogeneity. Take 22.34 mg of reagent (2) and dissolve. Add 2-3 drops of dilute acetic acid to the mixture, then place in a 70 C heated oil bath under reflux for at least 20 hours. Take it off the heat. If you see dull yellowish precipitate on the walls you've likely got it. I'll soon provide images of the precipitate and TLC stains for you to be able to observe it with greater ease.
 
+![image](https://github.com/user-attachments/assets/9aa48128-db68-4fe6-ae90-813b8a9304ea)
+
+
 Take TLC at 5% EtoAc, 95% Hexane, and view under short UV and long UV, or use chemical methods if accessible. Previous results reported 15%, but 5% is more optimal, as 15% runs a significant risk of MBIHC advancing beyond the solvent front, due to its nonpolarity, calculated by DFT to be 1.44 Debye (and this improvement has been greenlit by the first author of the paper introducing MBIHC, Jugminder Singh). 
 
-Then, if it's likely MBIHC, distill at 50 C to evaporate all the methanol. Dry in the flask for 1-2 days in a cool, dry place, ensuring there are tiny holes in the covering to allow ventilation. To crystallize, use DCM, followed by hexane, carefully layered, and store. Crystallization takes an unknown period of time, and is recommended for use in ligand-metal complexes. Currently, complexes with zinc, iron, nickel and cobalt are known, with tridentate modes possible for three of four of these. The degree of nuclearity can be controlled by varying the stoichiometric ratios, and complexes can be formed at room temperature.
+Then, if it's likely MBIHC, distill at 50 C to evaporate all the methanol. Dry in the flask for 1-2 days in a cool, dry place, ensuring there are tiny holes in the covering to allow ventilation. To crystallize, use DCM, followed by hexane, carefully layered, and store. Crystallization takes an unknown period of time, and is recommended for use in ligand-metal complexes. Currently, complexes with zinc, iron, nickel and cobalt are known, with tridentate modes possible for three of four of these. The degree of nuclearity can be controlled by varying the stoichiometric ratios, and complexes can be formed at room temperature. For more information check out the MBIHC.pdf in the repo (note I wrote the 15% EtoAc step before I realized 5% was preferable. It's a recent identification, so use 5% instead).
 
 # Usage
 
