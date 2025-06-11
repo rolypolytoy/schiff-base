@@ -1,8 +1,10 @@
 ## MBIHC
 
-What is MBIHC? It's a Schiff base containing an indole moiety, a thiocarbazone group, and with favorable bidentate and tridentate coordination modes with iron, zinc, and nickel. Its complexes are of increasing interest to bioinorganic research and requires using state-of-the-art computational organometallic chemistry methods.
+What is MBIHC? It's a Schiff base containing an indole moiety, a thiocarbazone group, and with favorable bidentate and tridentate coordination modes with iron, zinc, and nickel. Its complexes are of increasing interest to bioinorganic research and have antifungal properties. For more information, check the paper out (in the References section).
 
-To that end we've used DFT to compute its molecular properties, using its provided IUPAC structure ((E)-2-((1-benzyl-1H-indol-3-yl)methylene)-N-methylhydrazine-1-carbothioamide) and generated a preliminary 3d structure via RDKIT, optimized by MMFF. We then used ORCA with the wB97X-D3 functional (more accurate than the workhorse BL3YP) and the def2-SVP basis set.
+To that end I used DFT to compute its molecular properties, using its provided IUPAC structure ((E)-2-((1-benzyl-1H-indol-3-yl)methylene)-N-methylhydrazine-1-carbothioamide) and generated a preliminary 3d structure via RDKIT, optimized by MMFF. We then used ORCA with the wB97X-D3 functional (more accurate than the workhorse BL3YP) and the def2-SVP basis set. I actually found a few errors in the DFT calculations in the paper- for example, in the paper it said the calculated dipole was 12.1 Debye, which is entirely inconsistent with my results in the lab, which showed 5% EtoAc was sufficient for TLC, and 15% was too far. This means the molecule is quite nonpolar, and 1.44 Debye is significantly more reasonable. That, and their energy of ~-900 Hartree vs mine at -1312.89 makes me suspect they ran a single-point calculation on the XRD-obtained structure, versus doing a DFT optimization of the molecule in gas/solution phase and running electronic structure calculations on it.
+
+# Synthesis
 
 You can make it by a pretty simple reaction. Take N-benzylindole-3-carboxaldehyde (1) and 4-Methyl Thiosemicarbazide (2) with the structural formulas shown below. Weigh them in a 1:1 stoichiometric ratio (we used 0.21 mmol, 50mg of the aldehyde, and 22.34mg of the thiosemicarbazide). Structural formulae of (1) and (2) are provided below:
 
@@ -67,7 +69,7 @@ Under long UV it becomes even more apparent that something novel has been create
 
 5% EtoAc, 95% Hexane used for these. Using 4% or 3% may help in making the Rf values more reasonable than the 70-90% they were hovering at here, but 5% provides sufficient, consistent performance in minutes.
 
-How crystals of MBIHC look like (sample courtesy of Jugminder Singh, PhD student and faculty at Deshbandhu College, University of Delhi):
+How crystals of MBIHC look like (sample courtesy of Jugminder Singh, PhD student and faculty at Deshbandhu College, University of Delhi, and the original synthesizer of MBIHC):
 
 ![1000135003](https://github.com/user-attachments/assets/e1e4c923-5ee1-45c3-bb8f-ebb157013907)
 
