@@ -67,7 +67,7 @@ Under long UV it becomes even more apparent that something novel has been create
 
 5% EtoAc, 95% Hexane used for these. Using 4% or 3% may help in making the Rf values more reasonable than the 70-90% they were hovering at here, but 5% provides sufficient, consistent performance in minutes.
 
-How crystals of MBIHC look like (sample courtesy of Jugminder Singh, PhD student and faculty at Deshbandhu College, University of Delhi):
+How crystals of MBIHC look like (sample courtesy of Jugminder Singh, PhD student and faculty at Deshbandhu College, University of Delhi, and the original synthesizer of MBIHC):
 
 ![1000135003](https://github.com/user-attachments/assets/e1e4c923-5ee1-45c3-bb8f-ebb157013907)
 
